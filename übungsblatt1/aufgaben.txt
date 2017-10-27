@@ -1,0 +1,100 @@
+Aufgabe 1:
+
+a)
+
+1) int i, j;
+
+2) char a = '<';
+
+3) 0,01256
+
+4) unsigned int
+
+5) ja, float
+
+6) nein, wegen -- mus heißen -1
+
+7) ja, char
+
+8) 2
+
+9) x = pow(x, 2);
+
+b)
+
+1) sorgt dafür das die ausgabe mindestens die feldbreite drei besitzt.
+
+2) sorgt dafür das mindestens drei stellen nach dem komma/punkt ausgegeben werden.
+
+3) nein, das + zeichen darf dort nicht stehen
+
+4) ja
+
+5) 1.0
+
+6) 001.1
+
+c)
+
+1) ./a -x test
+
+2) gcc a.c -o Programm
+
+
+Aufgabe 2:
+
+a)
+
+Zeile 1: main groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf.
+Zeile 2: Klammern statt geschweifte Klammer.
+Zeile 3: return groß statt klein. Klammern um 0. Semicolon nach Statement vergessen.
+Zeile 4: Klammern statt geschweifte Klammer.
+
+int main(void)
+{
+  return 0;
+}
+
+b)
+
+Zeile 1: Doppeltes doppel Kreuz.
+Zeile 3: Falscher Rückgabewert in main Funktion.
+Zeile 5: Klammer nach printf fehlt. String nicht in Hochkommata.
+
+#include <stdio.h>
+
+int main(void)
+{
+  printf("Hallo");
+}
+
+c)
+
+Zeile 1: Klammern nach main vergessen.
+Zeile 4: Falscher Funktionsname print. Falscher format Spezifizierer.
+
+int main(void)
+{
+  double d = 5.50;
+  print("%f",d);
+  return 0;
+}
+
+d)
+
+Zeile 1: Include Direktive Hochkommata statt <> bei Std headern.
+Zeile 6: Ausgabe eines char ohne format spezifizierer.
+Zeile 8: Geschweifte Klammer fehlt.
+
+#include <stdio.h>
+
+int main(void)
+{
+  char d = ’a’;
+  printf("%c", d);
+  return 0;
+}
+
+Aufgabe 4:
+
+a) int arithmetic_mean(int num1, int num2)
