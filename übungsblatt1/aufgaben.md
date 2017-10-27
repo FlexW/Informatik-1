@@ -54,7 +54,7 @@
 
 4: Runde Klammer statt geschweifte Klammer.
 
-```
+```C
 int main(void)
 {
   return 0;
