@@ -22,7 +22,7 @@
 
 * `double x = pow(x, 2);`
 
-### b)
+#### b)
 
 * Sorgt für Feldbreite drei bei Ausgabe.
 
@@ -36,7 +36,7 @@
 
 * `001.1`
 
-### c)
+#### c)
 
 * `./a -x test`
 
@@ -78,7 +78,7 @@ int main(void)
 }
 ```
 
-### c)
+#### c)
 
 0: stdio.h nicht inkludiert.
 
@@ -97,7 +97,7 @@ int main(void)
 }
 ```
 
-### d)
+#### d)
 
 1: Header falsch inkludiert. System Header immer mit < > inkludieren.
 
@@ -118,7 +118,7 @@ int main(void)
 
 ## Aufgabe 4
 
-### a)
+#### a)
 
 ```
 int arithmetic_mean(int num1, int num2);
