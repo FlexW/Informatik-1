@@ -28,7 +28,7 @@
 
 * Sorgt für mindestens drei Stellen nach dem Komma bzw. Punkt.
 
-* Nein, `+` ist illegal.
+* Ja.
 
 * Ja.
 
