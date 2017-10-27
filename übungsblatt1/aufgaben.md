@@ -4,7 +4,7 @@
 
 a)
 
-int a,j
+...* int a,j
 
 char a = '<'
 
