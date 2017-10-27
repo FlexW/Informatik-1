@@ -54,12 +54,12 @@ a)
 
 4: Runde Klammer statt geschweifte Klammer.
 
-'''
+```
 int main(void)
 {
   return 0;
 }
-'''
+```
 
 b)
 
@@ -69,14 +69,14 @@ b)
 
 5: Runde Klammer nach printf fehlt. String nicht in Doppel-Hochkommata.
 
-'''
+```
 #include <stdio.h>
 
 int main(void)
 {
   printf("Hallo");
 }
-'''
+```
 
 c)
 
@@ -86,7 +86,7 @@ c)
 
 4: Falscher Funktionsname print. Falscher Format-Spezifizierer.
 
-'''
+```
 #include <stdio.h>
 
 int main(void)
@@ -95,7 +95,7 @@ int main(void)
   printf("%f",d);
   return 0;
 }
-'''
+```
 
 d)
 
@@ -105,7 +105,7 @@ d)
 
 8: Geschweifte Klammer fehlt.
 
-'''
+```
 #include <stdio.h>
 
 int main(void)
@@ -114,12 +114,12 @@ int main(void)
   printf("%c", d);
   return 0;
 }
-'''
+```
 
 ## Aufgabe 4
 
 a)
 
-'''
+```
 int arithmetic_mean(int num1, int num2);
-'''
+```
