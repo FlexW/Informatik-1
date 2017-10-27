@@ -46,11 +46,11 @@
 
 #### a)
 
-1: main groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf.
+1: `main` groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf.
 
 2: Klammer statt geschweifte Klammer.
 
-3: return groß statt klein. Klammern um 0. Semicolon nach Statement fehlt.
+3: `return` groß statt klein. Klammern um `0`. Semicolon nach Statement fehlt.
 
 4: Runde Klammer statt geschweifte Klammer.
 
@@ -65,9 +65,9 @@ int main(void)
 
 1: Doppeltes Doppel-Kreuz.
 
-3: Falscher Rückgabewert in main Funktion.
+3: Falscher Rückgabewert in `main` Funktion.
 
-5: Runde Klammer nach printf fehlt. String nicht in Doppel-Hochkommata.
+5: Runde Klammer nach `printf` fehlt. String nicht in Doppel-Hochkommata.
 
 ```C
 #include <stdio.h>
@@ -80,11 +80,11 @@ int main(void)
 
 #### c)
 
-0: stdio.h nicht inkludiert.
+0: `stdio.h` nicht inkludiert.
 
 1: Runde Klammern nach main fehlen.
 
-4: Falscher Funktionsname print. Falscher Format-Spezifizierer.
+4: Falscher Funktionsname `print`. Falscher Format-Spezifizierer.
 
 ```C
 #include <stdio.h>
@@ -99,9 +99,9 @@ int main(void)
 
 #### d)
 
-1: Header falsch inkludiert. System Header immer mit < > inkludieren.
+1: Header falsch inkludiert. System Header immer mit `<...>` inkludieren.
 
-6: Ausgabe eines char ohne Format-Spezifizierer.
+6: Ausgabe eines `char` ohne Format-Spezifizierer.
 
 8: Geschweifte Klammer fehlt.
 
