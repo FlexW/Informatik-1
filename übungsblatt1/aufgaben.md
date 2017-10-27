@@ -4,43 +4,43 @@
 
 ### a)
 
-* int a,j
+* `int a,j;`
 
-char a = '<'
+* `char a = '<';`
 
-0,01256
+* 0,01256
 
-unsigned int
+* `unsigned int`
 
-ja, float
+* ja, `float`
 
-nein, wegen -- muss heißen -1
+* nein, wegen `--` muss heißen `-1`
 
-ja, char
+* ja, char
 
-2
+* 2
 
-double x = pow(x, 2)
+* `double x = pow(x, 2);`
 
 ### b)
 
-Sorgt für Feldbreite drei bei Ausgabe.
+* Sorgt für Feldbreite drei bei Ausgabe.
 
-Sorgt für mindestens drei Stellen nach dem Komma bzw. Punkt.
+* Sorgt für mindestens drei Stellen nach dem Komma bzw. Punkt.
 
-Nein, + ist illegal.
+* Nein, `+` ist illegal.
 
-Ja.
+* Ja.
 
-1.0
+* `1.0`
 
-001.1
+* `001.1`
 
 ### c)
 
-./a -x test
+* `./a -x test`
 
-gcc a.c -o Programm
+* `gcc a.c -o Programm`
 
 ## Aufgabe 2
 
