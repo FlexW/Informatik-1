@@ -44,7 +44,7 @@
 
 ## Aufgabe 2
 
-### a)
+#### a)
 
 1: main groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf.
 
@@ -61,7 +61,7 @@ int main(void)
 }
 ```
 
-### b)
+#### b)
 
 1: Doppeltes Doppel-Kreuz.
 
