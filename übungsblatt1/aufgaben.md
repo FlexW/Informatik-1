@@ -69,7 +69,7 @@ int main(void)
 
 5: Runde Klammer nach printf fehlt. String nicht in Doppel-Hochkommata.
 
-```
+```C
 #include <stdio.h>
 
 int main(void)
@@ -86,7 +86,7 @@ int main(void)
 
 4: Falscher Funktionsname print. Falscher Format-Spezifizierer.
 
-```
+```C
 #include <stdio.h>
 
 int main(void)
@@ -105,7 +105,7 @@ int main(void)
 
 8: Geschweifte Klammer fehlt.
 
-```
+```C
 #include <stdio.h>
 
 int main(void)
@@ -120,6 +120,6 @@ int main(void)
 
 #### a)
 
-```
+```C
 int arithmetic_mean(int num1, int num2);
 ```
