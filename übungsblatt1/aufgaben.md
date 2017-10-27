@@ -20,7 +20,7 @@
 
 * 2
 
-* `double x = pow(x, 2);`C
+* `double x = pow(x, 2);`
 
 #### b)
 
