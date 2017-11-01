@@ -121,5 +121,5 @@ int main(void)
 #### a)
 
 ```C
-int arithmetic_mean(int num1, int num2);
+double arithmetic_mean(int num1, int num2);
 ```
