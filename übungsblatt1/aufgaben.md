@@ -24,11 +24,11 @@
 
 #### b)
 
-* Sorgt für Feldbreite drei bei Ausgabe.
+* Es wird eine Dezimalzahl ohne Nachkommastellen mit einer minimalen Feldbreite von 3 ausgegeben.
 
-* Sorgt für mindestens drei Stellen nach dem Komma bzw. Punkt.
+* SEs wird eine Dezimalzahl mit 6 Nachkommastellen und einer minimalen Feldbreite von 4 ausgegeben.
 
-* Ja.
+* Ja, eine Dezimalzahl ohne Nachkommastellen wird mit seinem Vorzeichen aufgegeben. Dabei ist die minimale Feldbreite 4, und die unbenutzen Stellen werden mit Nullen aufgefüllt.
 
 * Ja.
 
@@ -46,7 +46,7 @@
 
 #### a)
 
-1: `main` groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf.
+1: `main` groß statt klein. Geschweifte Klammern statt Klammern im Funktionskopf. Rückgabetyp `int` von `main` fehlt.
 
 2: Klammer statt geschweifte Klammer.
 
@@ -75,6 +75,7 @@ int main(void)
 int main(void)
 {
   printf("Hallo");
+  return 0;
 }
 ```
 
