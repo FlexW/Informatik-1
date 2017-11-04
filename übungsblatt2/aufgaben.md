@@ -81,7 +81,8 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
 
 ## Aufgabe 8
 
-* 0 + 4 + 3 + 2 + 1 = 10
+* 0 + 4 + 3 + 2 + 1 = 10.
+
   Addition aller positiven Zahlen bis zur Grenze n (SZ 1001).
 
 * Maschienenprogramm:
