@@ -94,4 +94,11 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
   2005: AUSGABE   1007
   ```
 
-*
+* Inhalt PC: 400
+  Inhalt SZ 400: ADD 103, 200
+
+  FETCH: Hole Inhalt von SZ über RM nach IR
+  DECODE: Erkenne das es sich um ADD Operation für SZ 103 und SZ 200 handelt.
+  EXECUTE: Lade Inhalt von SZ 103 in AR und Inhalt von SZ 200 in AR1. Führe
+  ADD Operation auf AR und AR1 aus. Schreibe Inhalt von AR  über WM in SZ 103.
+  Inkrementiere PC.

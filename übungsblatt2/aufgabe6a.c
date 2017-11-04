@@ -8,9 +8,6 @@ int main()
     scanf("%c%c", &x, &y);
     res = isdigit(x);
     res1 = isdigit(y);
-    if (res && res1)
-        printf("1\n");
-    else
-        printf("0\n");
+    printf("%d\n", (res * res1) / (2048 * 2048));
     return 0;
 }
