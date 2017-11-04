@@ -49,7 +49,8 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
 
 * Siehe Code.
 
-*   ```
+* n
+    ```
     Algorithmus: is_prim
 
     Eingabe: x Element Nat.Zahlen ohne 0
