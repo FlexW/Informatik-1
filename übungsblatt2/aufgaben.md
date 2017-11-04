@@ -61,10 +61,10 @@ solange k < x tue
 Ausgabe: 1
 ```
 
+*
 1000 = n
 2000 = tmpVar
 3000 = e
-*
 ```
 2001: INIT        3000
 2002: SPRUNG      3000, 2009
