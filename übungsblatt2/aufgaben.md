@@ -50,16 +50,16 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
 * Siehe Code.
 
 *
-```
-Algorithmus: is_prim
+    ```
+    Algorithmus: is_prim
 
-Eingabe: x Element Nat.Zahlen ohne 0
-k <- 2;
-solange k < x tue
-  Wenn x mod k = 0 dann
-    Ausgabe: 0
-Ausgabe: 1
-```
+    Eingabe: x Element Nat.Zahlen ohne 0
+    k <- 2;
+    solange k < x tue
+    Wenn x mod k = 0 dann
+         Ausgabe: 0
+         Ausgabe: 1
+    ```
 
 *
     1000 = n
