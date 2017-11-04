@@ -49,7 +49,7 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
 
 * Siehe Code.
 
-* n
+* Pseudocode:
     ```
     Algorithmus: is_prim
 
