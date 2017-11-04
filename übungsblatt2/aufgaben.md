@@ -78,3 +78,19 @@ Es gibt aber eine Warnung da der Wert der berechnet wird nirgend gespeichert wir
     2008: SPRUNG      2002
     2009: AUSGABE     3000
     ```
+
+## Aufgabe 8
+
+* 0 + 4 + 3 + 2 + 1 = 10
+  Addition aller positiven Zahlen bis zur Grenze n (SZ 1001).
+
+* Maschienenprogramm:
+  ```
+  2001: SPRUNG    1006, 2005
+  2002: INKREMENT 1007
+  2003: DEKREMENT 1006
+  2004: SPRUNG    2001
+  2005: AUSGABE   1007
+  ```
+
+*
