@@ -71,7 +71,7 @@ Speicherwerk sendet T.
 | F | W  |   F   |    W     |
 
 #### b)
-| A | B  | A && B  | A || (A && B) |
+| A | B  | A && B  | A \|\| (A && B) |
 |---|----|---------|---------------|
 | W | W  |   W     |       W       |
 | W | F  |   F     |       W       |
@@ -85,7 +85,7 @@ Speicherwerk sendet T.
 | F |   F    |
 
 #### d)
-| A  | B  | A || B | !(A || B) |
+| A  | B  | A || B | !(A \|\| B) |
 |----|----|--------|-----------|
 | W  | W  |   W    |     F     |
 | W  | F  |   W    |     F     |
